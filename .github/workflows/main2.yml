@@ -3,8 +3,8 @@ name: nifty50scrape
 
 # Controls when the action will run.
 on:
-  schedule:
-    - cron:  '*/5 * * * *'
+  push:
+    branches: master
 
 
 jobs: 

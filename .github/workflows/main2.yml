@@ -4,7 +4,7 @@ name: nifty50scrape
 # Controls when the action will run.
 on:
   push:
-    branches: master
+    branches: main
 
 
 jobs: 
